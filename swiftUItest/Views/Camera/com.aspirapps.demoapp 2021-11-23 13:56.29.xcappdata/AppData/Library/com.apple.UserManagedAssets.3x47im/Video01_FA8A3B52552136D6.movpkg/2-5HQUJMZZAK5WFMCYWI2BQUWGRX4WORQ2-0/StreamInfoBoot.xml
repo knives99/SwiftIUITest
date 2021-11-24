@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StreamInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://apple.com/IMG/Schemas/HLSPersistentStreamInfo" xsi:schemaLocation="http://apple.com/IMG/Schemas/HLSPersistentStreamInfo /System/Library/Schemas/HLSPersistentStreamInfo.xsd">
+  <Version>1.0</Version>
+  <Complete>YES</Complete>
+  <PeakBandwidth>0</PeakBandwidth>
+  <Compressable>NO</Compressable>
+  
+<MediaPlaylist><NetworkURL>https://books-com-video-streaming-test.s3.ap-southeast-1.amazonaws.com/streaming/E079999996-0000092702/master-hls/subtitles/zh-cn/subtitles.m3u8</NetworkURL><PathToLocalCopy>2-5HQUJMZZAK5WFMCYWI2BQUWGRX4WORQ2-0.m3u8</PathToLocalCopy></MediaPlaylist><MediaTypeList><MediaType type="sbtl"/></MediaTypeList><Type>Supplemental</Type><EvictionPolicy>StreamInfoEvictionPolicyPersists</EvictionPolicy><MediaSegments><SEG URL="https://books-com-video-streaming-test.s3.ap-southeast-1.amazonaws.com/streaming/E079999996-0000092702/master-hls/subtitles/zh-cn/subtitle_zh-cn.vtt" PATH="[0]_[0]_[585].frag" Tim="0.0000000" Dur="585.0000111" Off="0" Len="13840"/></MediaSegments><MediaBytesStored>13840</MediaBytesStored></StreamInfo>

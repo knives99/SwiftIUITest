@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StreamInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://apple.com/IMG/Schemas/HLSPersistentStreamInfo" xsi:schemaLocation="http://apple.com/IMG/Schemas/HLSPersistentStreamInfo /System/Library/Schemas/HLSPersistentStreamInfo.xsd">
+  <Version>1.0</Version>
+  <Complete>NO</Complete>
+  <PeakBandwidth>0</PeakBandwidth>
+  <Compressable>NO</Compressable>
+  <MediaBytesStored>0</MediaBytesStored>
+<MediaPlaylist><NetworkURL>https://books-com-video-streaming-test.s3.ap-southeast-1.amazonaws.com/streaming/E079999996-0000092702/master-hls/media-1/stream.m3u8</NetworkURL></MediaPlaylist><Type>Main</Type><EvictionPolicy>StreamInfoEvictionPolicyPersists</EvictionPolicy></StreamInfo>
